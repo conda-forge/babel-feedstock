@@ -5,7 +5,7 @@ Home: http://babel.pocoo.org/
 
 Package license: BSD 3-clause
 
-Feedstock license: BSD
+Feedstock license: BSD 3-Clause
 
 Summary: An integrated collection of utilities that assist in internationalizing and localizing Python applications, with an emphasis on web-based applications.
 
@@ -69,6 +69,7 @@ Terminology
 
 Current build status
 ====================
+
 Linux: [![Circle CI](https://circleci.com/gh/conda-forge/babel-feedstock.svg?style=svg)](https://circleci.com/gh/conda-forge/babel-feedstock)
 OSX: [![TravisCI](https://travis-ci.org/conda-forge/babel-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/babel-feedstock) 
 Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/babel-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/babel-feedstock/branch/master)
