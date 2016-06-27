@@ -1,4 +1,4 @@
-{% set version = "2.3.2" %}
+{% set version = "2.3.4" %}
 
 package:
   name: babel
@@ -6,8 +6,8 @@ package:
 
 source:
   fn: Babel-{{ version }}.tar.gz
-  url: https://pypi.python.org/packages/source/B/Babel/Babel-{{ version }}.tar.gz
-  md5: 95ad5c32d28defb0ca543756ca335031
+  url: https://pypi.io/packages/source/B/Babel/Babel-{{ version }}.tar.gz
+  md5: afa20bc55b0e991833030129ad498f35
 
 build:
   number: 0
