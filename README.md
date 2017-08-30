@@ -7,8 +7,11 @@ Package license: BSD 3-clause
 
 Feedstock license: BSD 3-Clause
 
-Summary: An integrated collection of utilities that assist in internationalizing and localizing Python applications, with an emphasis on web-based applications.
+Summary: Utilities to internationalize and localize Python applications
 
+Babel is an integrated collection of utilities that assist in
+internationalizing and localizing Python applications, with an emphasis
+on web-base applications.
 
 
 Current build status
