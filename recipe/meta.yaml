@@ -1,6 +1,6 @@
 {% set name = "Babel" %}
-{% set version = "2.4.0" %}
-{% set sha256 = "8c98f5e5f8f5f088571f2c6bd88d530e331cbbcb95a7311a0db69d3dca7ec563" %}
+{% set version = "2.5.1" %}
+{% set sha256 = "6007daf714d0cd5524bbe436e2d42b3c20e68da66289559341e48d2cd6d25811" %}
 
 package:
   name: {{ name|lower }}
