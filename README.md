@@ -17,14 +17,16 @@ on web-base applications.
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/babel-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/babel-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/babel-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/babel-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/babel-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/babel-feedstock/branch/master)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/babel-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/babel-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/babel-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/babel-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/babel-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/babel-feedstock/branch/master)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/babel/badges/version.svg)](https://anaconda.org/conda-forge/babel)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/babel/badges/downloads.svg)](https://anaconda.org/conda-forge/babel)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-babel-green.svg)](https://anaconda.org/conda-forge/babel) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/babel.svg)](https://anaconda.org/conda-forge/babel) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/babel.svg)](https://anaconda.org/conda-forge/babel) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/babel.svg)](https://anaconda.org/conda-forge/babel) |
 
 Installing babel
 ================
