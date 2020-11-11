@@ -5,9 +5,13 @@ Home: http://babel.pocoo.org/
 
 Package license: BSD 3-clause
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/babel-feedstock/blob/master/LICENSE.txt)
 
 Summary: Utilities to internationalize and localize Python applications
+
+Development: https://github.com/python-babel/babel
+
+Documentation: http://babel.pocoo.org/en/latest/#user-documentation
 
 Babel is an integrated collection of utilities that assist in
 internationalizing and localizing Python applications, with an emphasis
