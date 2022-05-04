@@ -21,11 +21,11 @@ build:
 requirements:
   host:
     - pip
-    - python
+    - python >=3.6
     - setuptools
     - pytz
   run:
-    - python
+    - python >=3.6
     - pytz
 
 test:
@@ -39,7 +39,7 @@ test:
 
 about:
   home: http://babel.pocoo.org/
-  license: BSD 3-clause
+  license: BSD-3-Clause
   license_file: LICENSE
   summary: Utilities to internationalize and localize Python applications
   description: |
