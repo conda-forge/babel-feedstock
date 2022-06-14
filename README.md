@@ -3,7 +3,7 @@ About babel
 
 Home: http://babel.pocoo.org/
 
-Package license: BSD 3-clause
+Package license: BSD-3-Clause
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/babel-feedstock/blob/main/LICENSE.txt)
 
