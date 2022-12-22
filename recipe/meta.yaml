@@ -22,6 +22,7 @@ requirements:
     - python
     - setuptools
     - pytz
+    - wheel
   run:
     - python
     - pytz >=2015.7
