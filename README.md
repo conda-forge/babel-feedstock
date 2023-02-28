@@ -1,11 +1,11 @@
-About babel
-===========
+About babel-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/babel-feedstock/blob/main/LICENSE.txt)
 
 Home: http://babel.pocoo.org/
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/babel-feedstock/blob/main/LICENSE.txt)
 
 Summary: Utilities to internationalize and localize Python applications
 
