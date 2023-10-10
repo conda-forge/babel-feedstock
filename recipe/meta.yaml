@@ -1,6 +1,6 @@
 {% set name = "Babel" %}
-{% set version = "2.12.1" %}
-{% set sha256 = "cc2d99999cd01d44420ae725a21c9e3711b3aadc7976d6147f622d8581963455" %}
+{% set version = "2.13.0" %}
+{% set sha256 = "04c3e2d28d2b7681644508f836be388ae49e0cfe91465095340395b60d00f210" %}
 
 package:
   name: {{ name|lower }}
@@ -13,7 +13,7 @@ source:
 
 build:
   noarch: python
-  number: 1
+  number: 0
   script: {{ PYTHON }} -m pip install . --no-deps -vv
   entry_points:
     - pybabel = babel.messages.frontend:main
@@ -26,6 +26,7 @@ requirements:
     - pytz
   run:
     - python >=3.7
+    - setuptools
     - pytz
 
 test:
