@@ -26,6 +26,7 @@ requirements:
     - pytz
   run:
     - python >=3.7
+    - setuptools
     - pytz
 
 test:
