@@ -154,4 +154,5 @@ Feedstock Maintainers
 
 * [@frol](https://github.com/frol/)
 * [@nehaljwani](https://github.com/nehaljwani/)
+* [@thewchan](https://github.com/thewchan/)
 
