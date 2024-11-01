@@ -1,4 +1,4 @@
-{% set name = "Babel" %}
+{% set name = "babel" %}
 {% set version = "2.16.0" %}
 {% set sha256 = "d1f3554ca26605fe173f3de0c65f750f5a42f924499bf134de6423582298e316" %}
 
