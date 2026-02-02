@@ -17,7 +17,6 @@ Babel is an integrated collection of utilities that assist in
 internationalizing and localizing Python applications, with an emphasis
 on web-base applications.
 
-
 Current build status
 ====================
 
