@@ -13,7 +13,7 @@ source:
   sha256: b80b99a14bd085fcacfa15c9165f651fbb3406e66cc603abf11c5750937c992d
 
 build:
-  number: 0
+  number: 1
   noarch: python
   script: ${{ PYTHON }} -m pip install . --no-deps -vv
   python:
@@ -27,6 +27,7 @@ requirements:
     - setuptools
   run:
     - python >=${{ python_min }}
+  run_constraints:
     - pytz >=2015.7
 
 tests:
